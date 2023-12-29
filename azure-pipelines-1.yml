@@ -1,0 +1,21 @@
+# Unit test trigger
+trigger:
+  branches:
+    include:
+      - feature/*
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- script: |
+    # Set up Python environment
+    python -m venv venv
+    source venv/bin/activate
+
+    # Install dependencies
+    pip install -r requirements.txt
+
+    # Run unit tests
+    python -m unittest discover tests
+  displayName: 'Run Unit Tests'
