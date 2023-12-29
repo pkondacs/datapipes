@@ -1,0 +1,501 @@
+﻿collateral_id,type,orig_value
+1,Real Estate,21761
+2,Securities,9982
+3,Cash,22004
+4,Securities,22593
+5,Securities,18706
+6,Cash,22579
+7,,11120
+8,,10410
+9,Cash,28529
+10,Securities,13561
+11,Real Estate,21702
+12,Cash,9101
+13,,8169
+14,Real Estate,25193
+15,Real Estate,19659
+16,Securities,19742
+17,Cash,15688
+18,Securities,19705
+19,Securities,4110
+20,Securities,24965
+21,Securities,12575
+22,,6596
+23,,14060
+24,,3645
+25,Cash,23631
+26,Cash,23136
+27,Real Estate,11634
+28,Securities,28505
+29,Real Estate,28120
+30,,8181
+31,Securities,27438
+32,Real Estate,21360
+33,,7233
+34,Securities,3748
+35,Real Estate,8211
+36,Securities,19691
+37,,15015
+38,Securities,1151
+39,,28942
+40,,3781
+41,Securities,29480
+42,,7080
+43,,14514
+44,Securities,1123
+45,Securities,19679
+46,Real Estate,11527
+47,,10189
+48,Cash,9299
+49,Real Estate,20441
+50,Real Estate,7458
+51,Cash,11769
+52,Cash,6159
+53,Cash,8141
+54,Cash,14941
+55,Real Estate,28324
+56,Securities,28818
+57,Real Estate,8149
+58,Securities,8836
+59,Real Estate,15121
+60,,7077
+61,,28548
+62,Securities,13430
+63,Cash,29351
+64,Securities,29200
+65,Real Estate,2890
+66,Cash,8307
+67,Real Estate,8051
+68,Real Estate,9397
+69,,9885
+70,Real Estate,15887
+71,,4283
+72,,22937
+73,Real Estate,12012
+74,Securities,8684
+75,Securities,6353
+76,Securities,12412
+77,Securities,17297
+78,Cash,9007
+79,Securities,2087
+80,Real Estate,15409
+81,Cash,9798
+82,Securities,15008
+83,,10773
+84,Securities,3854
+85,Securities,8925
+86,Cash,9922
+87,Cash,3340
+88,Securities,5354
+89,,12410
+90,,25436
+91,,1474
+92,Securities,3231
+93,Securities,17443
+94,Cash,25833
+95,Cash,9540
+96,Securities,20841
+97,Real Estate,11034
+98,,22264
+99,Real Estate,24578
+100,Securities,18313
+101,Securities,1706
+102,,13605
+103,Securities,19441
+104,Cash,23088
+105,Securities,24777
+106,Real Estate,10315
+107,Real Estate,25283
+108,,6833
+109,,3436
+110,,12979
+111,,9519
+112,Securities,16601
+113,Real Estate,18820
+114,Securities,2708
+115,Real Estate,21086
+116,Securities,23530
+117,Real Estate,16866
+118,,8069
+119,Cash,20668
+120,Securities,10704
+121,Cash,20874
+122,,1524
+123,Cash,5333
+124,,9123
+125,Securities,10072
+126,Securities,13954
+127,Securities,19663
+128,Securities,12367
+129,Real Estate,21087
+130,Real Estate,29153
+131,Real Estate,18833
+132,Securities,5975
+133,Cash,18119
+134,Real Estate,13991
+135,,24398
+136,,2003
+137,,8399
+138,Real Estate,25653
+139,Securities,13540
+140,Real Estate,15231
+141,,23187
+142,Securities,16099
+143,Securities,6030
+144,Securities,20927
+145,Securities,21440
+146,Cash,25021
+147,Real Estate,21689
+148,Securities,29643
+149,Cash,7408
+150,Cash,5965
+151,Real Estate,1484
+152,Securities,21724
+153,Real Estate,28482
+154,Cash,15318
+155,,25423
+156,Real Estate,18190
+157,Securities,5866
+158,Real Estate,23306
+159,Real Estate,16947
+160,Cash,13529
+161,Cash,29949
+162,Real Estate,27858
+163,Cash,1281
+164,Cash,27264
+165,Securities,5789
+166,Cash,27785
+167,Real Estate,27029
+168,Securities,18051
+169,Real Estate,3568
+170,Cash,5397
+171,Real Estate,15890
+172,Securities,27336
+173,Cash,26453
+174,Real Estate,28891
+175,Real Estate,29411
+176,Cash,4835
+177,Real Estate,21225
+178,Securities,1972
+179,Securities,14165
+180,,23572
+181,Real Estate,19626
+182,Cash,14989
+183,Real Estate,27602
+184,Real Estate,10758
+185,,20393
+186,Securities,13639
+187,Cash,16675
+188,Cash,16914
+189,Real Estate,25429
+190,Securities,1467
+191,Cash,9435
+192,Cash,24822
+193,,3885
+194,Cash,13146
+195,Real Estate,17819
+196,,4175
+197,Securities,27866
+198,Securities,19727
+199,Cash,10900
+200,Real Estate,23387
+201,Securities,24134
+202,Securities,22777
+203,Securities,27292
+204,Real Estate,26021
+205,Securities,8385
+206,,20017
+207,Securities,23758
+208,Real Estate,29311
+209,Cash,29631
+210,Securities,24408
+211,Cash,3897
+212,Real Estate,15591
+213,Real Estate,3910
+214,Real Estate,5243
+215,Real Estate,29683
+216,Cash,27997
+217,,18040
+218,Cash,28053
+219,Cash,1027
+220,Securities,22368
+221,Real Estate,13847
+222,Real Estate,17587
+223,Securities,10500
+224,Cash,27457
+225,,14176
+226,Securities,25850
+227,Cash,23971
+228,Cash,21516
+229,Cash,8471
+230,Real Estate,13514
+231,Securities,22453
+232,Cash,17648
+233,Cash,10467
+234,Cash,18914
+235,Securities,5045
+236,Real Estate,11655
+237,,19889
+238,Securities,11258
+239,Real Estate,9189
+240,Securities,25634
+241,Cash,21710
+242,Securities,11608
+243,Real Estate,9244
+244,Securities,2810
+245,Real Estate,17407
+246,Cash,4901
+247,Real Estate,3071
+248,,25276
+249,Securities,10189
+250,Real Estate,15872
+251,Cash,18846
+252,Securities,29646
+253,,24115
+254,Securities,29424
+255,Cash,21703
+256,Securities,21534
+257,Securities,18352
+258,Real Estate,27009
+259,,12062
+260,Real Estate,29495
+261,Real Estate,1865
+262,,8989
+263,Real Estate,8808
+264,Cash,8548
+265,Securities,15341
+266,Cash,4351
+267,Securities,11826
+268,Cash,8106
+269,Securities,7845
+270,Real Estate,12153
+271,Cash,24792
+272,Real Estate,25392
+273,,25996
+274,Securities,25645
+275,Securities,8856
+276,Cash,29306
+277,,10033
+278,Cash,7870
+279,Securities,17976
+280,Cash,16395
+281,Securities,24264
+282,,22575
+283,Real Estate,6960
+284,Cash,14041
+285,Cash,28313
+286,Real Estate,15679
+287,Cash,10113
+288,,15232
+289,Real Estate,10479
+290,Cash,8440
+291,Cash,7510
+292,Securities,1341
+293,Securities,20555
+294,Real Estate,7490
+295,Cash,28442
+296,Cash,16926
+297,Cash,12509
+298,Securities,14473
+299,,10132
+300,Securities,19287
+301,Cash,11999
+302,Real Estate,21639
+303,Cash,9043
+304,Securities,4780
+305,Securities,1409
+306,Securities,24948
+307,,24054
+308,Real Estate,8353
+309,Cash,4767
+310,Securities,7056
+311,Cash,26696
+312,Cash,27460
+313,Securities,16065
+314,Securities,4757
+315,,17489
+316,Cash,2530
+317,,26668
+318,Securities,21470
+319,Securities,17390
+320,Cash,28921
+321,,22545
+322,Securities,2038
+323,Real Estate,15178
+324,Cash,7965
+325,Cash,4562
+326,Securities,23946
+327,,23072
+328,Real Estate,12215
+329,Real Estate,6973
+330,Cash,19227
+331,Real Estate,23792
+332,Cash,6562
+333,,27800
+334,Cash,9078
+335,Securities,20003
+336,,18558
+337,,11264
+338,,21679
+339,Securities,18944
+340,Securities,5204
+341,Securities,20024
+342,Real Estate,21970
+343,Real Estate,8741
+344,Securities,5118
+345,Real Estate,27928
+346,Securities,4860
+347,Cash,19944
+348,,15831
+349,Securities,5822
+350,Cash,23102
+351,Cash,27857
+352,Real Estate,28830
+353,,16605
+354,,27715
+355,,5903
+356,Real Estate,4185
+357,Cash,27779
+358,Securities,1006
+359,,13665
+360,Securities,19403
+361,,14158
+362,Real Estate,1882
+363,Securities,11176
+364,Real Estate,23486
+365,Securities,9459
+366,,23807
+367,,29809
+368,Securities,16857
+369,Securities,7469
+370,Real Estate,16057
+371,Cash,28963
+372,Real Estate,16419
+373,Real Estate,8606
+374,Securities,2022
+375,Securities,11460
+376,,25708
+377,Real Estate,18054
+378,Real Estate,19694
+379,,14017
+380,Securities,17268
+381,Cash,24339
+382,Real Estate,6522
+383,,6278
+384,Cash,24694
+385,Real Estate,20151
+386,Securities,28169
+387,Cash,23645
+388,,21114
+389,Real Estate,19910
+390,Real Estate,26963
+391,,11863
+392,Securities,12366
+393,Real Estate,8540
+394,Real Estate,11738
+395,Real Estate,4810
+396,Securities,23564
+397,Securities,22283
+398,Securities,11257
+399,Cash,21031
+400,Securities,18914
+401,Securities,2950
+402,,28232
+403,Securities,14787
+404,Securities,20711
+405,Cash,19663
+406,Cash,1599
+407,,17028
+408,Securities,10069
+409,Cash,20699
+410,Securities,29504
+411,Securities,11901
+412,Securities,23859
+413,Securities,21879
+414,Real Estate,5498
+415,Cash,25437
+416,Securities,13405
+417,,23377
+418,,25940
+419,Securities,28125
+420,Cash,13088
+421,Real Estate,17618
+422,,27874
+423,,19381
+424,Securities,13561
+425,Securities,6734
+426,Real Estate,8407
+427,,1646
+428,,22367
+429,Real Estate,18940
+430,Real Estate,22249
+431,Securities,16736
+432,Securities,16993
+433,Securities,5070
+434,Real Estate,18384
+435,Real Estate,5612
+436,,24483
+437,Real Estate,25795
+438,Cash,28217
+439,,5458
+440,Securities,24305
+441,Real Estate,22713
+442,Cash,4186
+443,Real Estate,21413
+444,Cash,10406
+445,Securities,18453
+446,Real Estate,16267
+447,Cash,16881
+448,Real Estate,25753
+449,Securities,5343
+450,Real Estate,21840
+451,Cash,18017
+452,,28060
+453,Securities,6755
+454,Cash,10100
+455,Cash,14454
+456,Cash,28229
+457,Securities,18251
+458,Securities,4125
+459,Securities,29807
+460,Securities,18366
+461,Securities,14997
+462,Securities,26943
+463,,27997
+464,Cash,12927
+465,,7422
+466,,1588
+467,Real Estate,16992
+468,Securities,29547
+469,,15729
+470,Securities,5446
+471,Securities,16308
+472,Real Estate,12083
+473,Cash,21393
+474,Securities,12661
+475,Securities,8342
+476,Real Estate,5513
+477,,27514
+478,Real Estate,28721
+479,Cash,13088
+480,Real Estate,11880
+481,Real Estate,16957
+482,Securities,10981
+483,Securities,4247
+484,Real Estate,23157
+485,Real Estate,5805
+486,Cash,24773
+487,Securities,13672
+488,,19600
+489,Real Estate,26194
+490,Real Estate,3159
+491,Cash,19910
+492,,18199
+493,,15327
+494,Cash,8833
+495,Securities,21106
+496,Real Estate,21584
+497,Real Estate,21053
+498,,26938
+499,Real Estate,7654
+500,Cash,1641
