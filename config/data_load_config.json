@@ -1,1 +1,7 @@
-
+{
+  "CSVImporter": {
+    "file_name": "collaterals.csv",
+    "location": "https://raw.githubusercontent.com/pkondacs/datapipes/main/data/collaterals.csv",
+    "columns": ["collateral_id", "type", "orig_value"]
+  }
+}
