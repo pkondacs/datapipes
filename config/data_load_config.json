@@ -1,7 +1,12 @@
-{
-  "CSVImporter": {
+[
+  {
     "file_name": "collaterals.csv",
     "location": "https://raw.githubusercontent.com/pkondacs/datapipes/main/data",
     "columns": ["collateral_id", "type", "orig_value"]
+  },
+  {
+    "file_name": "facilities.csv",
+    "location": "https://raw.githubusercontent.com/pkondacs/datapipes/main/data",
+    "columns": ["facility_id", "counterparty_id",	"start_date", "end_date", "facility_type", "amount"]
   }
-}
+]
