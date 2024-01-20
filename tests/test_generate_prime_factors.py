@@ -1,9 +1,6 @@
 import pytest
 from scipts.prime import generate_prime_factors
 
-factors = []
-exp=[]
-
 '''
 def test_integer():
     """ Step 1: Write a test that asserts when generate_prime_factors is called with a data type

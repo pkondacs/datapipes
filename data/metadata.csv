@@ -1,0 +1,22 @@
+﻿table,fieldname,label,type
+collaterals,collateral_id,Collateral Identification Number,str
+collaterals,type,Collateral Type,str
+collaterals,orig_value,Original Value of Collateral,float
+corporations_data,corp_name,Corporation Name,str
+corporations_data,zip_code,Zip Code,str
+corporations_data,state,State,str
+corporations_data,city,City,str
+counterparties,counterparty_id,Counterparty ID,str
+counterparties,name,Name,str
+counterparties,city,City,str
+counterparties,state,State,str
+counterparties,zip,Zip Code,str
+counterparties,country,Country,str
+facilities,facility_id,Facility Id Number,str
+facilities,counterparty_id,Counterparty Id Number,str
+facilities,start_date,Start Date Number,date
+facilities,end_date,End Date Number,date
+facilities,facility_type,Facility Type Number,int
+facilities,amount,Amount,float
+facs_cols_links,collateral_id,Collateral Id Number,str
+facs_cols_links,facility_id,Facility Id Number,str
