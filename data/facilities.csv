@@ -1,5 +1,5 @@
 ﻿facility_id,counterparty_id,start_date,end_date,facility_type,amount
-1,1,22/04/2020,,Mortgage,2576
+1,1,22/04/2020,,,2576
 2,2,08/02/2023,,Term Loan,58169
 3,3,13/12/2023,,Line of Credit,81874
 4,4,14/02/2015,,Mortgage,4822

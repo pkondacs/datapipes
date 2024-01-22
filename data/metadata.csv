@@ -1,22 +1,22 @@
 ﻿table,fieldname,label,type
-collaterals,collateral_id,Collateral Identification Number,str
-collaterals,type,Collateral Type,str
+collaterals,collateral_id,Collateral Identification Number,int8
+collaterals,type,Collateral Type,category
 collaterals,orig_value,Original Value of Collateral,float
 corporations_data,corp_name,Corporation Name,str
-corporations_data,zip_code,Zip Code,str
-corporations_data,state,State,str
-corporations_data,city,City,str
-counterparties,counterparty_id,Counterparty ID,str
+corporations_data,zip_code,Zip Code,category
+corporations_data,state,State,category
+corporations_data,city,City,category
+counterparties,counterparty_id,Counterparty ID,int8
 counterparties,name,Name,str
-counterparties,city,City,str
-counterparties,state,State,str
-counterparties,zip,Zip Code,str
-counterparties,country,Country,str
-facilities,facility_id,Facility Id Number,str
-facilities,counterparty_id,Counterparty Id Number,str
-facilities,start_date,Start Date Number,date
-facilities,end_date,End Date Number,date
-facilities,facility_type,Facility Type Number,int
+counterparties,city,City,category
+counterparties,state,State,category
+counterparties,zip,Zip Code,category
+counterparties,country,Country,category
+facilities,facility_id,Facility Id Number,int8
+facilities,counterparty_id,Counterparty Id Number,int8
+facilities,start_date,Start Date Number,datetime64
+facilities,end_date,End Date Number,datetime64
+facilities,facility_type,Facility Type,category
 facilities,amount,Amount,float
-facs_cols_links,collateral_id,Collateral Id Number,str
-facs_cols_links,facility_id,Facility Id Number,str
+facs_cols_links,collateral_id,Collateral Id Number,int8
+facs_cols_links,facility_id,Facility Id Number,int8
