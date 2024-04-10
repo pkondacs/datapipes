@@ -1,0 +1,9 @@
+{
+	"name": "peterunitydatafactory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dfe49b6b-e954-428f-94e9-dcb8484df616",
+		"tenantId": "37f10704-5f92-4e1e-8247-5f52c0b778c6"
+	}
+}
